@@ -13,7 +13,6 @@
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- CSS Grid
 - Mobile-first workflow
 - [Styled Components](https://styled-components.com/) - For styles
 
@@ -29,11 +28,6 @@ To see how you can add code snippets, see below:
 ```css
 .proud-of-this-css {
   color: papayawhip;
-}
-```
-```js
-const proudOfThisFunc = () => {
-  console.log('🎉')
 }
 ```
 ### desenvolvimento contínuo
